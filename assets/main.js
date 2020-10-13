@@ -28,5 +28,5 @@ if (eta_utente < 18) {
 } else if (eta_utente > 65) {
     document.write("You pay (" + (prezzo_biglietto * 0.6) + ")");
 } else {
-    document.write("You pay ("+ prezzo_biglietto + ")");
+    document.write("You pay (" + prezzo_biglietto + ")");
 }
